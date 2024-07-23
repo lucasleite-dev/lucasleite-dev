@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas
 
-- 🌱 Estudando programação Fullstack na Kenzie Academy Brasil
+- 💻 Desenvolvedor Fullstack (focado em Back-end) formado pela Kenzie Academy Brasil
 
 <a href="https://github.com/lucasleite-dev">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasleite-dev&show_icons=true&theme=midnight-purple" />
