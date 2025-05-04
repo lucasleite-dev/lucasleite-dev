@@ -1,13 +1,14 @@
 ## Olá! Eu sou o Lucas
 
 - 💻 Desenvolvedor Fullstack (focado em Back-end) formado pela Kenzie Academy Brasil
-
+<!--
 <a href="https://github.com/lucasleite-dev">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasleite-dev&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/lucasleite-dev">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasleite-dev&theme=midnight-purple&layout=compact&langs_count=8&card_width=320" />
 </a>
+-->
 <!-- Mostrar repositório especifico
 Repositório desses status: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <a href="https://github.com/anuraghazra/github-readme-stats">
